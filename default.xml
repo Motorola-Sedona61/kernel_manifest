@@ -18,7 +18,7 @@
   <project name="kernel_dataipa" path="development/mmi-w1uos/dataipa" revision="390ae384e3ac233249ede559c4884d50bb8176dd" upstream="refs/heads/sedona-6.1" />
   <project name="kernel_datarmnet" path="development/mmi-w1uos/datarmnet" revision="e3b9ccad60d046c9debca0b70700040f5c7ba69e" upstream="refs/heads/sedona-6.1" />
   <project name="kernel_datarmnet_ext" path="development/mmi-w1uos/datarmnet-ext" revision="4a221272676d675de5c36714129837b38d0973f7" upstream="refs/heads/sedona-6.1" />
-  <project name="motorola-kernel-modules" path="development/mmi-w1uos/motorola-kernel-modules" revision="fda713fc5502f1b112749bce6e89f73186985e5e" upstream="refs/heads/sedona-6.1">
+  <project name="motorola-kernel-modules" path="development/mmi-w1uos/motorola-kernel-modules" revision="e08f32aebea7bda02703f1122fe896df24d9b104" upstream="refs/heads/sedona-6.1">
     <linkfile src="legacy/fogos" dest="development/peripherals" />
   </project>
   <project name="kernel_video_devicetree" path="development/mmi-w1uos/dt-video" revision="81513247a382c797e066e832b6fe2944eebab421" upstream="refs/heads/sedona-6.1" />
