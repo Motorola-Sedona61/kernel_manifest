@@ -9,7 +9,7 @@
   <project name="kernel_securemsm" path="development/securemsm" revision="c3e3a02549f3b9f82b17c87eb5e6b9e2e05a3fd9" upstream="refs/heads/sedona-6.1" />
   <project name="kernel_camera" path="development/mmi-w1uos/camera" revision="374751314b4a466410164b2ba10ca984e56dd8b2" upstream="refs/heads/sedona-6.1" />
   <project name="kernel_mmrm" path="development/mmi-w1uos/mmrm" revision="d67f72f2221e6bcf87f8f1a7ff904d33e70621ee" upstream="refs/heads/sedona-6.1" />
-  <project name="kernel_video" path="development/mmi-w1uos/video" revision="e48167251d40d0de95874ae86dd62b0f206d74ec" upstream="refs/heads/sedona-6.1" />
+  <project name="kernel_video" path="development/mmi-w1uos/video" revision="86bec366a5ebf060f28adf10cdcf56f57fcaeba7" upstream="refs/heads/sedona-6.1" />
   <project name="kernel_bt" path="development/mmi-w1uos/bt" revision="256d969f2f60d7de749e253121e5296976af48da" upstream="refs/heads/sedona-6.1" />
   <project name="kernel_wlan_platform" path="development/mmi-w1uos/wlan/platform" revision="d869ad3537f64f9a7526803aabe8a40f4e23bd22" upstream="refs/heads/sedona-6.1" />
   <project name="kernel_wlan_qcacld3" path="development/mmi-w1uos/wlan/qcacld-3.0" revision="16a8775796c2d0696559806352f312587540cda7" upstream="refs/heads/sedona-6.1" />
@@ -21,7 +21,7 @@
   <project name="motorola-kernel-modules" path="development/mmi-w1uos/motorola-kernel-modules" revision="e9ce545f3e9aed55f509ea39378813f6a77e0455" upstream="refs/heads/sedona-6.1">
     <linkfile src="legacy/fogos" dest="development/peripherals" />
   </project>
-  <project name="kernel_video_devicetree" path="development/mmi-w1uos/dt-video" revision="0900700f6f8898872ef26457ca8c589c1003eb8c" upstream="refs/heads/sedona-6.1" />
+  <project name="kernel_video_devicetree" path="development/mmi-w1uos/dt-video" revision="49a4fcd5d4d447807adea01323472714530e2ec5" upstream="refs/heads/sedona-6.1" />
   <project name="kernel_bt_devicetree" path="development/mmi-w1uos/dt-bt" revision="c48379cdd4cca38841176a1557769af7c1d965df" upstream="refs/heads/sedona-6.1" />
   <project name="kernel_wlan_devicetree" path="development/mmi-w1uos/dt-wlan" revision="6a0570ef0f605a25afec9e4afa14966a57ee9103" upstream="refs/heads/sedona-6.1" />
   <project name="kernel_data_devicetree" path="development/mmi-w1uos/dt-data" revision="36de38fd456189d717c878db59febc9e81e1bf1a" upstream="refs/heads/sedona-6.1" />
