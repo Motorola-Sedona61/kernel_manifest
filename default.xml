@@ -9,7 +9,7 @@
   <project name="kernel_securemsm" path="development/securemsm" revision="c3e3a02549f3b9f82b17c87eb5e6b9e2e05a3fd9" upstream="refs/heads/sedona-6.1" />
   <project name="kernel_camera" path="development/mmi-w1uos/camera" revision="374751314b4a466410164b2ba10ca984e56dd8b2" upstream="refs/heads/sedona-6.1" />
   <project name="kernel_mmrm" path="development/mmi-w1uos/mmrm" revision="d67f72f2221e6bcf87f8f1a7ff904d33e70621ee" upstream="refs/heads/sedona-6.1" />
-  <project name="kernel_video" path="development/mmi-w1uos/video" revision="8882c3b407b4d4ba952057eaaf006a0ea3e67741" upstream="refs/heads/sedona-6.1" />
+  <project name="kernel_video" path="development/mmi-w1uos/video" revision="807ceea8d3f4d229f5c8e3b051b5bc0374cfe3cf" upstream="refs/heads/sedona-6.1" />
   <project name="kernel_bt" path="development/mmi-w1uos/bt" revision="256d969f2f60d7de749e253121e5296976af48da" upstream="refs/heads/sedona-6.1" />
   <project name="kernel_wlan_platform" path="development/mmi-w1uos/wlan/platform" revision="d869ad3537f64f9a7526803aabe8a40f4e23bd22" upstream="refs/heads/sedona-6.1" />
   <project name="kernel_wlan_qcacld3" path="development/mmi-w1uos/wlan/qcacld-3.0" revision="16a8775796c2d0696559806352f312587540cda7" upstream="refs/heads/sedona-6.1" />
