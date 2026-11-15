@@ -21,7 +21,7 @@
   <project name="motorola-kernel-modules" path="development/mmi-w1uos/motorola-kernel-modules" revision="e9ce545f3e9aed55f509ea39378813f6a77e0455" upstream="refs/heads/sedona-6.1">
     <linkfile src="legacy/fogos" dest="development/peripherals" />
   </project>
-  <project name="kernel_video_devicetree" path="development/mmi-w1uos/dt-video" revision="968b1f15778ae8f1bfef5bfcdaf71dcebab26967" upstream="refs/heads/sedona-6.1" />
+  <project name="kernel_video_devicetree" path="development/mmi-w1uos/dt-video" revision="ebe0635d1324a5136974d3509cae0b49908ca5f0" upstream="refs/heads/sedona-6.1" />
   <project name="kernel_bt_devicetree" path="development/mmi-w1uos/dt-bt" revision="c48379cdd4cca38841176a1557769af7c1d965df" upstream="refs/heads/sedona-6.1" />
   <project name="kernel_wlan_devicetree" path="development/mmi-w1uos/dt-wlan" revision="6a0570ef0f605a25afec9e4afa14966a57ee9103" upstream="refs/heads/sedona-6.1" />
   <project name="kernel_data_devicetree" path="development/mmi-w1uos/dt-data" revision="36de38fd456189d717c878db59febc9e81e1bf1a" upstream="refs/heads/sedona-6.1" />
