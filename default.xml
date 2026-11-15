@@ -27,7 +27,7 @@
   <project name="kernel_data_devicetree" path="development/mmi-w1uos/dt-data" revision="36de38fd456189d717c878db59febc9e81e1bf1a" upstream="refs/heads/sedona-6.1" />
   <project name="android_bionic" path="tools/bionic" revision="ff3bb041547924ac1a7504e4b3bd3ea18169ca2f" upstream="refs/heads/lineage-24.0" remote="lineage" />
   <project name="android_system_libufdt" path="tools/libufdt" revision="70c20864187df19f3e7d358ca8436f77d61a3f39" upstream="refs/heads/lineage-24.0" remote="lineage" />
-  <project name="kernel_build" path="build" revision="4ada86448bd15af8e2c829b946f0a84cef5b6fd9" upstream="refs/heads/main">
+  <project name="kernel_build" path="build" revision="71159122fd6bae8212f94884f87eea9b968df918" upstream="refs/heads/main">
     <linkfile src="build.sh" dest="build.sh" />
   </project>
   <remote name="lineage" fetch="https://github.com/LineageOS/" />
