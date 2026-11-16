@@ -4,7 +4,7 @@
   <default remote="sedona" revision="refs/heads/sedona-6.1" sync-j="8" sync-c="true" />
   <project name="kernel_motorola_sm6375-6.1" path="development/kernel" revision="6100cad7475e7bf864367d44c382a77e7c6bdd70" upstream="refs/heads/sedona-6.1" />
   <project name="kernel_motorola_sm6375-6.1-display" path="development/display" revision="97b69d1bf00b90880ceee2c0339349e1addb2d0d" upstream="refs/heads/sedona-6.1" />
-  <project name="kernel_motorola_sm6375-6.1-graphics" path="development/graphics" revision="8cf099843352abdd83a51f1ae856af713f2374ab" upstream="refs/heads/sedona-6.1" />
+  <project name="kernel_motorola_sm6375-6.1-graphics" path="development/graphics" revision="e0cd3af5058c6f26dc1bdd9301e1bfb3502725f2" upstream="refs/heads/sedona-6.1" />
   <project name="kernel_dsp" path="development/dsp" revision="b9d08da935715ae287b05fe87e6a721bdb96f3c8" upstream="refs/heads/sedona-6.1" />
   <project name="kernel_securemsm" path="development/securemsm" revision="c3e3a02549f3b9f82b17c87eb5e6b9e2e05a3fd9" upstream="refs/heads/sedona-6.1" />
   <project name="kernel_camera" path="development/mmi-w1uos/camera" revision="374751314b4a466410164b2ba10ca984e56dd8b2" upstream="refs/heads/sedona-6.1" />
