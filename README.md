@@ -1,6 +1,6 @@
 # Motorola SM6375 kernel manifest
 
-Pinned kernel and module sources for Fogos and Rhodep, based on Motorola `MMI-W1UOS36H.35-39-7` (Linux 6.1.145). Kernel, display and graphics retain Motorola history. Fogos and Rhodep module sources share `motorola-kernel-modules`, branch `sedona-6.1`; retained Fogos drivers are under `legacy/fogos`.
+Pinned kernel and module sources for Fogos and Rhodep, based on Motorola `MMI-W1UOS36H.35-39-7` (Linux 6.1.145). Kernel, display and graphics retain Motorola history. Fogos and Rhodep module sources share the pinned `motorola-kernel-modules` checkout; retained Fogos drivers are under `legacy/fogos`.
 
 ```sh
 mkdir sedona-kernel

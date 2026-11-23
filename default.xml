@@ -2,8 +2,8 @@
 <manifest>
   <remote name="sedona" fetch="https://github.com/Motorola-Sedona61/" />
   <default remote="sedona" revision="refs/heads/sedona-6.1" sync-j="8" sync-c="true" />
-  <project name="kernel_motorola_sm6375-6.1" path="development/kernel" revision="6cd6d3e17e4d66397f861254c1c8f253a0a78830" upstream="refs/heads/sedona-6.1" />
-  <project name="kernel_motorola_sm6375-6.1-display" path="development/display" revision="97b69d1bf00b90880ceee2c0339349e1addb2d0d" upstream="refs/heads/sedona-6.1" />
+  <project name="kernel_motorola_sm6375-6.1" path="development/kernel" revision="ec9ae5e1d0e48360e774c36b09524720406b6f47" upstream="refs/heads/lineage-24.0" />
+  <project name="kernel_motorola_sm6375-6.1-display" path="development/display" revision="7206a94604baccf72742bbc9f332dd30eb5dd7b5" upstream="refs/heads/wip" />
   <project name="kernel_motorola_sm6375-6.1-graphics" path="development/graphics" revision="e0cd3af5058c6f26dc1bdd9301e1bfb3502725f2" upstream="refs/heads/sedona-6.1" />
   <project name="kernel_dsp" path="development/dsp" revision="b9d08da935715ae287b05fe87e6a721bdb96f3c8" upstream="refs/heads/sedona-6.1" />
   <project name="kernel_securemsm" path="development/securemsm" revision="c3e3a02549f3b9f82b17c87eb5e6b9e2e05a3fd9" upstream="refs/heads/sedona-6.1" />
@@ -18,7 +18,7 @@
   <project name="kernel_dataipa" path="development/mmi-w1uos/dataipa" revision="390ae384e3ac233249ede559c4884d50bb8176dd" upstream="refs/heads/sedona-6.1" />
   <project name="kernel_datarmnet" path="development/mmi-w1uos/datarmnet" revision="e3b9ccad60d046c9debca0b70700040f5c7ba69e" upstream="refs/heads/sedona-6.1" />
   <project name="kernel_datarmnet_ext" path="development/mmi-w1uos/datarmnet-ext" revision="4a221272676d675de5c36714129837b38d0973f7" upstream="refs/heads/sedona-6.1" />
-  <project name="motorola-kernel-modules" path="development/mmi-w1uos/motorola-kernel-modules" revision="bffe5434c6a2f031d137b69f60031dbf3de49dbc" upstream="refs/heads/sedona-6.1">
+  <project name="motorola-kernel-modules" path="development/mmi-w1uos/motorola-kernel-modules" revision="714ac7d62adced0f37c5898cc1ba4296209ea49c" upstream="refs/heads/wip">
     <linkfile src="legacy/fogos" dest="development/peripherals" />
   </project>
   <project name="kernel_video_devicetree" path="development/mmi-w1uos/dt-video" revision="ebe0635d1324a5136974d3509cae0b49908ca5f0" upstream="refs/heads/sedona-6.1" />
@@ -27,7 +27,7 @@
   <project name="kernel_data_devicetree" path="development/mmi-w1uos/dt-data" revision="36de38fd456189d717c878db59febc9e81e1bf1a" upstream="refs/heads/sedona-6.1" />
   <project name="android_bionic" path="tools/bionic" revision="ff3bb041547924ac1a7504e4b3bd3ea18169ca2f" upstream="refs/heads/lineage-24.0" remote="lineage" />
   <project name="android_system_libufdt" path="tools/libufdt" revision="70c20864187df19f3e7d358ca8436f77d61a3f39" upstream="refs/heads/lineage-24.0" remote="lineage" />
-  <project name="kernel_build" path="build" revision="0bad0600544dfb79795d24f0eec990ca1481d243" upstream="refs/heads/main">
+  <project name="kernel_build" path="build" revision="30d739c09b91909904b999e0ac37f022ecdccc0e" upstream="refs/heads/wip">
     <linkfile src="build.sh" dest="build.sh" />
   </project>
   <remote name="lineage" fetch="https://github.com/LineageOS/" />
